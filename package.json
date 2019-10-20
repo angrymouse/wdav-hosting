@@ -1,0 +1,23 @@
+{
+  "name": "officialsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie": "^0.4.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0",
+    "webdav-fs": "^2.0.0",
+    "ws": "^7.1.2"
+  },
+  "engines":{
+    "node":"12.x"
+  }
+}
