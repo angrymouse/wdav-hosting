@@ -1,5 +1,6 @@
 {
-  "port":80,//port to listen by app
+  "port":80,
+  "___port-comment":"port to listen by app"
   "username":"your webdav username",
   "password":"your password",
   "host":"your webdav hostname"
