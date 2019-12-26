@@ -1,6 +1,6 @@
 {
-  "port":3000,
-  "username":"rykov.nikas@gmail.com",
-  "password":"Hippothebest1",
-  "host":"webdav.yandex.ru"
+  "port":80,//port to listen by app
+  "username":"your webdav username",
+  "password":"your password",
+  "host":"your webdav hostname"
 }
